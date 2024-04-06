@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import utils.Locators;
 import java.util.concurrent.TimeUnit;
 
-public class SmokeTest3 implements Locators {
+public class Smoke3Test implements Locators {
     WebDriver driver;
 
     @BeforeClass

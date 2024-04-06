@@ -10,7 +10,7 @@ import java.util.Iterator;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
-public class SmokeTest4 implements Locators {
+public class Smoke4Test implements Locators {
     WebDriver driver;
 
     @BeforeClass
